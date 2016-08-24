@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: project4
+Implementation-Version: 1.0
+Built-By: admin
+Specification-Vendor: Airlift
+Specification-Title: project4
+Implementation-Vendor-Id: com.project4
+Build-Jdk: 1.8.0_101
+Specification-Version: 1.0
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Airlift
+

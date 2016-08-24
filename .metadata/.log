@@ -1,0 +1,68 @@
+!SESSION 2016-08-24 12:38:16.081 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-24 12:38:37.245
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:37.490
+!MESSAGE The POM for com.oracle:ojdbc6:jar:11.2.0.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:38.355
+!MESSAGE The POM for com.atlassian.core:atlassian-core:jar:4.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:39.439
+!MESSAGE The POM for biz.aQute:bndlib:jar:1.43.0-atlassian-1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:53.754
+!MESSAGE The POM for com.atlassian.fugue:fugue:jar:1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:56.055
+!MESSAGE The POM for com.dmurph:JGoogleAnalyticsTracker:jar:1.2.1-atlassian is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:57.219
+!MESSAGE The POM for com.atlassian.plugins.rest:atlassian-rest-doclet:jar:2.9.2 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:20:57.879
+!MESSAGE The POM for com.atlassian.plugins:atlassian-plugins-osgi-testrunner:jar:1.2.3 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:22:51.641
+!MESSAGE The POM for com.atlassian.sal:sal-api:jar:2.7.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:22:53.506
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.2.2-atlassian-1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:26:23.614
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:26:23.628
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:04.050
+!MESSAGE The POM for com.atlassian.sal:sal-api:jar:2.7.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:04.066
+!MESSAGE The POM for com.atlassian.plugins:atlassian-plugins-osgi-testrunner:jar:1.2.3 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:04.077
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.2.2-atlassian-1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:04.851
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:04.865
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:05.614
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-08-24 13:34:05.656
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
